@@ -1,0 +1,19 @@
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\bin\Debug\HarhOrtalama(B171200555).exe.config
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\bin\Debug\HarhOrtalama(B171200555).exe
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\bin\Debug\HarhOrtalama(B171200555).pdb
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).csprojAssemblyReference.cache
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama_B171200555_.Form1.resources
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama_B171200555_.Properties.Resources.resources
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).csproj.GenerateResource.cache
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).csproj.CoreCompileInputs.cache
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).exe
+C:\Users\Ali kende\Desktop\Arshad\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).pdb
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\bin\Debug\HarhOrtalama(B171200555).exe.config
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\bin\Debug\HarhOrtalama(B171200555).exe
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\bin\Debug\HarhOrtalama(B171200555).pdb
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).csprojAssemblyReference.cache
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama_B171200555_.Form1.resources
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama_B171200555_.Properties.Resources.resources
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).csproj.GenerateResource.cache
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).exe
+C:\Users\PACKARD\Downloads\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\HarhOrtalama(B171200555)\obj\Debug\HarhOrtalama(B171200555).pdb
